@@ -1,0 +1,9 @@
+#! /bin/bash
+python code/code_textcnn/infer1.py
+python code/code_textcnn/infer2.py
+python code/code_textcnn/infer3.py
+python code/code_textcnn/infer4.py
+python code/code_textcnn/infer5.py
+python code/code_Bert/infer1.py
+python code/code_Bert/infer2.py
+python code/fusion.py
