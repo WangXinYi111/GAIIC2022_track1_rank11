@@ -1,6 +1,8 @@
 # GAIIC2022_track1_rank11
 2022人工智能技术创新大赛-赛道1-电商关键属性匹配 
 [链接](https://www.heywhale.com/home/competition/620b34c41f3cf500170bd6ca/content/2)
+**队友**
+[XLF-xlf](https://github.com/XLF-xlf)
 ## 数据分析
 #### 1. 原始数据处理
 原始数据分为有标签（5万）和无标签（10万）
